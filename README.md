@@ -7,8 +7,8 @@ Send messages to a specific peer by IP and port.
 View active peers with their connection status.
 
 # Requirements
-Python 3.x
-Install Streamlit: pip install streamlit
+1) Python
+2) Streamlit: pip install streamlit
 
 # Usage
 Run the app:

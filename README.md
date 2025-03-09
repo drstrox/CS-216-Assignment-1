@@ -1,3 +1,8 @@
+# Team Members
+1) Aayush Yadav - 230001001
+2) Lakhani Prayag - 230001045
+3) Shreyash Singh - 230041033
+
 # Peer-to-Peer Messaging App
 A simple P2P messaging app built with Streamlit and Python that allows users to send messages directly to other peers without a centralized server.
 
